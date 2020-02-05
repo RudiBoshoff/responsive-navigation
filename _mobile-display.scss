@@ -1,0 +1,64 @@
+.container {
+  &__nav {
+    background-color: #333;
+  }
+}
+
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0rem 2rem;
+
+  a {
+    color: white;
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    height: 100%;
+    padding: 1.5rem;
+  }
+
+  li {
+    list-style: none;
+    white-space: nowrap;
+  }
+
+  &__items {
+    display: none;
+    order: 2;
+    padding: 2rem 0;
+    width: 100%;
+    border-top: 1px solid white;
+
+    &--display {
+      display: initial;
+    }
+  }
+
+  &__item {
+    text-align: center;
+
+    &:hover {
+      background: #444;
+    }
+  }
+
+  &__toggle {
+    order: 1;
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    a {
+      text-align: center;
+    }
+  }
+
+  &__toggle,
+  &__logo {
+    font-size: 2rem;
+  }
+}
