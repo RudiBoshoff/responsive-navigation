@@ -121,7 +121,9 @@ Pull from the repo and insert your own code in the main section
 
 Desktop View:
 ![desktop view](https://i.ibb.co/G9ZS85s/Annotation-2020-02-05-142546.jpg)
+
 Mobile View:
 ![mobile view](https://i.ibb.co/tLHSPxd/Annotation-2020-02-05-142641.jpgk)
+
 Mobile View (toggled):
 ![mobile view - togged](https://i.ibb.co/t3LbGHc/Annotation-2020-02-05-142627.jpg)
