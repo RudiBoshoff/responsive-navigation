@@ -120,10 +120,10 @@ Pull from the repo and insert your own code in the main section
 ## 4. Screen Shots of **template**:
 
 Desktop View:
-![desktop view](https://i.ibb.co/G9ZS85s/Annotation-2020-02-05-142546.jpg)
+![desktop view](https://i.ibb.co/G9ZS85s/Annotation-2020-02-05-142546.jpg| width=50)
 
 Mobile View:
-![mobile view](https://i.ibb.co/tLHSPxd/Annotation-2020-02-05-142641.jpgk)
+![mobile view](https://i.ibb.co/tLHSPxd/Annotation-2020-02-05-142641.jpgk| width=50)
 
 Mobile View (toggled):
-![mobile view - togged](https://i.ibb.co/t3LbGHc/Annotation-2020-02-05-142627.jpg)
+![mobile view - togged](https://i.ibb.co/t3LbGHc/Annotation-2020-02-05-142627.jpg| width=50)
