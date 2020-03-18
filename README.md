@@ -2,11 +2,11 @@
 
 Hi! I'm Rudi.
 
-I made a free **template** for you to use to create a website that uses a responsive navigation bar with a mobile first approach.
+I made a **free** template for you to use to create a website that uses a responsive navigation bar with a mobile first approach.
 
-## 1. What the **template** will look like:
+## 1. What the template will look like:
 
-The images below show the final structure of the website in desktop view and mobile view respectively. The **template** has a header consisting of a navigation bar and a main section. You should add your website body to the main section.
+The images below show the final structure of the website in desktop view and mobile view respectively. The template has a header consisting of a navigation bar and a main section. You should add your website body to the main section.
 
 Desktop View:
 
@@ -19,15 +19,15 @@ Mobile View:
 
 ## 2. Details about the template:
 
-The **template** makes use of a BEM (Block__Element--Modifier) naming convention for improved readability. It can be downloaded by just pulling from the repo. I used SCSS to style the **template** using partials for improved maintainability. I also used JQuery for the functionality of the hamburger menu toggle.
+The template makes use of a BEM (Block__Element--Modifier) naming convention for improved readability. It can be downloaded by just pulling from the repo. I used SCSS to style the template using partials for improved maintainability. I also used JQuery for the functionality of the hamburger menu toggle.
 
 ### 2.1 Template layout:
 
-The **template** makes use of a generalized modern web page where the menu logo is aligned to the top left and the menu items are aligned to the top right of the navigation bar.
+The template makes use of a generalized modern web page where the menu logo is aligned to the top left and the menu items are aligned to the top right of the navigation bar.
 
 ### 2.2 Template functionality:
 
-The **template** is fully responsive, meaning that it adjusts the styling of the HTML as well as the functionality of the website based on the what devise is viewing the website.
+The template is fully responsive, meaning that it adjusts the styling of the HTML as well as the functionality of the website based on the what devise is viewing the website.
 
 #### 2.2.1 Mobile View
 
@@ -55,4 +55,4 @@ Desktop View:
 
 ## 3. How to use the **template**:
 
-Pull from the repo and insert your own code in the main section.
+Pull from the repo and insert your own code or edit the code to your liking. I would love to see what you come up with.
