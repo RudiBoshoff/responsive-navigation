@@ -23,7 +23,7 @@ The **template** makes use of a BEM (Block__Element--Modifier) naming convention
 
 ### 2.1 Template layout:
 
-The **template** makes use of a generalized modern web page where the menu**logo is aligned to the top left and the menu**items (links) are aligned to the top right of the navigation bar.
+The **template** makes use of a generalized modern web page where the menu logo is aligned to the top left and the menu items are aligned to the top right of the navigation bar.
 
 ### 2.2 Template functionality:
 
